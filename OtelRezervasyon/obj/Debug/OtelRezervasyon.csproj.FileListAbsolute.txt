@@ -1,0 +1,12 @@
+c:\users\ezgi\desktop\visual studio 2013\Projects\OtelRezervasyon\OtelRezervasyon\bin\Debug\OtelRezervasyon.exe.config
+C:\Users\ezgi\Desktop\visual studio 2013\Projects\OtelRezervasyon\OtelRezervasyon\obj\Debug\OtelRezervasyon.csprojResolveAssemblyReference.cache
+C:\Users\ezgi\Desktop\visual studio 2013\Projects\OtelRezervasyon\OtelRezervasyon\obj\Debug\OtelRezervasyon.Form1.resources
+C:\Users\ezgi\Desktop\visual studio 2013\Projects\OtelRezervasyon\OtelRezervasyon\obj\Debug\OtelRezervasyon.Properties.Resources.resources
+C:\Users\ezgi\Desktop\visual studio 2013\Projects\OtelRezervasyon\OtelRezervasyon\obj\Debug\OtelRezervasyon.csproj.GenerateResource.Cache
+C:\Users\ezgi\Desktop\visual studio 2013\Projects\OtelRezervasyon\OtelRezervasyon\bin\Debug\OtelRezervasyon.exe
+C:\Users\ezgi\Desktop\visual studio 2013\Projects\OtelRezervasyon\OtelRezervasyon\bin\Debug\OtelRezervasyon.pdb
+C:\Users\ezgi\Desktop\visual studio 2013\Projects\OtelRezervasyon\OtelRezervasyon\obj\Debug\OtelRezervasyon.exe
+C:\Users\ezgi\Desktop\visual studio 2013\Projects\OtelRezervasyon\OtelRezervasyon\obj\Debug\OtelRezervasyon.pdb
+C:\Users\SELMA SALTIK\Downloads\OtelRezervasyon\OtelRezervasyon\OtelRezervasyon\bin\Debug\OtelRezervasyon.exe.config
+C:\Users\SELMA SALTIK\Downloads\OtelRezervasyon\OtelRezervasyon\OtelRezervasyon\obj\Debug\OtelRezervasyon.exe
+C:\Users\SELMA SALTIK\Downloads\OtelRezervasyon\OtelRezervasyon\OtelRezervasyon\obj\Debug\OtelRezervasyon.pdb
